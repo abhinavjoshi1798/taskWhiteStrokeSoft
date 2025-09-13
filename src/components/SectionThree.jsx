@@ -1,4 +1,4 @@
-import rightImg from "../assets/rightImg.png";
+import rightImg from "../assets/rightimg.png";
 import leftImg from "../assets/leftImg.png";
 import lineIcon from "../assets/lineIcon.png";
 import s3ri from "../assets/s3ri.png";
